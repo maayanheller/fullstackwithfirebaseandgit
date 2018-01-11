@@ -1,8 +1,12 @@
 import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
+<<<<<<< HEAD
 import fire from './fire';
 
+=======
+import fire from './fire'
+>>>>>>> 67da4408626f44bc2da7bac200feea1756b44d91
 class App extends Component {
 
   render() {
